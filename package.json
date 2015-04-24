@@ -1,0 +1,26 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "parser": "^0.1.4",
+    "jade": "^1.9.2",
+    "express": "^4.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brittwage/express-shopping-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brittwage/express-shopping-list/issues"
+  },
+  "homepage": "https://github.com/brittwage/express-shopping-list"
+}
